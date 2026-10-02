@@ -1,12 +1,13 @@
 {
-  "alunos": [
+  "alunos": [],
+  "professores": [
     {
-      "id": 1,
-      "nome": "Maria Silva",
-      "email": "maria@email.com",
-      "cpf": "123.456.789-00",
-      "data_nascimento": "2007-05-14",
-      "endereco": "Rua das Flores, 123 - Pau dos Ferros/RN"
+      "id": 2,
+      "nome": "Jeff",
+      "email": "jeff@gmail.com",
+      "cpf": "601.181.270-80",
+      "disciplina": "Programação para Internet",
+      "data_admissao": "2022-03-01"
     }
   ]
 }

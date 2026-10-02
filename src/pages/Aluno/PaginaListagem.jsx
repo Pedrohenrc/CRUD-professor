@@ -1,4 +1,4 @@
-import ListaAlunos from "../components/ListaAlunos";
+import ListaAlunos from "../../components/Alunos/ListaAlunos.jsx";
 
 function PaginaListagem(props) {
   return (

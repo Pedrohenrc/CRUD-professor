@@ -1,5 +1,5 @@
 import { useState } from "react";
-import CampoTexto from "./CampoTexto";
+import CampoTexto from "../CampoTexto.jsx";
 
 function FormularioAluno(props) {
   const [nome, setNome] = useState("");

@@ -1,4 +1,4 @@
-import FormularioAluno from "../components/FormularioAluno";
+import FormularioAluno from "../../components/Alunos/FormularioAluno.jsx";
 
 function PaginaCadastro(props) {
   return (

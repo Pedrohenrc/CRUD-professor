@@ -1,4 +1,4 @@
-import CardAluno from "./CardAluno";
+import CardAluno from "./CardAluno.jsx";
 
 function ListaAlunos(props) {
   const cards = [];
